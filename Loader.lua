@@ -8,6 +8,10 @@ local games = {
         Name = "Murder Mystery 2",
         Script = "MM2.lua",
     },
+    [606849621] = {
+        Name = "Jailbreak",
+        Script = "Jailbreak.lua",
+    },
 
 }
 
